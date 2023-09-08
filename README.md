@@ -11,3 +11,5 @@ All the information is stored in js cookies.
 Press green button if you reached your daily goal and red if you didn't.
 
 You can add a cell once a day.
+
+If you don't add a cell for 365 days, grid will be deleted.
